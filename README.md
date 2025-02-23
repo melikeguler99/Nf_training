@@ -2,6 +2,11 @@
 
 Welcome to the nf-core Hackathon repository! This event is a collaborative and community-driven coding sprint where bioinformaticians, developers, and enthusiasts come together to contribute to nf-core workflows and pipelines. Whether you're a first-time participant or an experienced developer, there's a place for you to make an impact. 🎯
 
+##📅 Event Details
+
+📍 Location: Istanbul & Online
+📆 Dates: March 24-26, 2025
+
 ## **🔥 How the Hackathon Works**
 
 Unlike traditional hackathons, the nf-core hackathons are not competitive. Instead, they are designed to encourage collaboration and knowledge sharing. Participants work together on various projects, which can range from:
