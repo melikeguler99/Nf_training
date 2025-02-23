@@ -5,6 +5,8 @@ Welcome to the nf-core Hackathon repository! This event is a collaborative and c
 ## 📅 Event Details
 
 📍 Location: Istanbul & Online
+
+
 📆 Dates: March 24-26, 2025
 
 ## **🔥 How the Hackathon Works**
